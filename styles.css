@@ -1,0 +1,20 @@
+/* GRDE2013 Adam Donnes A3 Website */
+* {
+  box-sizing: border-box;
+}
+
+div{
+
+    margin-left: 30px;
+
+}
+
+header{
+    margin: 30px;
+}
+
+footer{
+
+    margin: 30px;
+
+}
